@@ -28,10 +28,10 @@ Windows functions are useful inbuilt functions in tableau that provide efficienc
 
 *Below are the steps to be executed by learners*
 
-- Drag and drop start date to rows shelf and measures names to columns shelf
-- Drill down the end date and add mesures names to filter section, filtering out budget and expense (the two measures to be used)
-- Drag and drop measure values to text under marks section and Write down the two calculated fields, one for correlation and the other for windows correlation as shown   in the screencast/video.
-- Add these two calculated fields to the view by adjusting measure names in the filter section and observe the difference between them.
+- Select two measures, namely budget and expense and Write down the two calculated fields, one for correlation and the other for windows correlation as shown   in the   screencast/video (you can choose different start and end time intervals for your visualization).
+- Drag and drop location to detail and priority to color under marks section.
+- Drag and drop trend lines and average lines from analytics pane (you can choose trend line to be linesr, logarithmic, etc as per your choice).
+- You can now observe the performnace according to location and priority of projects.
 
 #### Exercise question:
 
@@ -73,10 +73,13 @@ Windows functions are helpful, efficient, built-in Tableau features that are uti
 
 Below are the steps to be executed by learners
 
-- Select two measures, namely budget and expense and Write down the two calculated fields, one for covariance and the other for windows correlation as shown   in the     screencast/video (you can choose different start and end time intervals for your visualization).
-- Drag and drop location to detail and priority to color under marks section.
-- Drag and drop trend lines and average lines from analytics pane (you can choose trend line to be linesr, logarithmic, etc as per your choice).
-- You can now observe the performnace according to location and priority of projects.
+- Drag and drop location to the rows shelf and measures name to columns shelf.
+- Add measures name to filter section and filter budget, expense and % complete to add them to the view. Drag measure values to text under marks shelf.
+- Create two calculated fields using covariance functions - first for for %complete and expense, second for %complete and budget (to analyze covariance between %       complete and expense and %complete and budget) 
+- Similarly create two more calculated fields using windows function - first for for % complete and expense, second for % complete and budget (to analyze covariance     between %complete and expense and % complete and budget)
+- Add the above created 4 calculated fields to the view by filtering through measure names.
+- Windows covariance function will allow understanding covariance between different locations by selecting different start and end intervals. 
+
 
 #### Exercise question:
  Which of the following is true about WINDOWS function?
@@ -85,6 +88,9 @@ Below are the steps to be executed by learners
 
 #### End goal:
 
-![Final_Visualization_Covariance](https://user-images.githubusercontent.com/122206001/211244313-f22955e8-2d0d-44dd-9f7e-6cbe691ab844.png)
+![Final_Visualization_Covariance](https://user-images.githubusercontent.com/122206001/211263709-425100c8-6360-4c16-9e17-0699aa673a4d.png)
+
+
+
 
 
