@@ -18,27 +18,33 @@
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+Learners will be able to learn correlation and windows correlation function using tableau
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+Windows functions are useful inbuilt functions in tableau that provide efficiency and are used for comparitive analysis. Combining them to correlation matrices add more insights and better consistency to the data visualization. They help in deriving correlation amongst random variables and their real life applications involve weather forecasting, research and analysis, engineering, etc.
 
 #### Steps to be executed by the student (max 6)
 
-*Each bulleted instruction is a complete sentence that describes a specific task.*
+*Below are the steps to be executed by learners*
 
-- Step 1
-- Step 2
-- Step 3
-- ...
+- Drag and drop start date to rows shelf and measures names to columns shelf
+- Drill down the end date and add mesures names to filter section, filtering out budget and expense (the two measures to be used)
+- Drag and drop measure values to text under marks section and Write down the two calculated fields, one for correlation and the other for windows correlation as shown   in the screencast/video.
+- Add these two calculated fields to the view by adjusting measure names in the filter section and observe the difference between them.
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+
+Which of the following is true about WINDOWS function?
+•	WINDOWS function require aggregated values
+•	WINDOWS function does not require aggregated values
+•	WINDOWS functions utlize aggregated values by default
+•	WINDOWS functions don't use over clause
+
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+
 
 ## 2nd VM Exercise
 
@@ -53,25 +59,28 @@
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+Learners will be able to learn covariance and windows covariance function using tableau
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+Windows functions are helpful, efficient, built-in Tableau features that are utilised for comparative analysis. The data visualisation gains more insights and improves consistency when they are combined with covariance functions. They aid in determining the degree to which two random variables are dependent on one another, and their real-world applications include forecasting the weather, studying the human body and life sciences, finding new drugs, etc.
 
 #### Steps to be executed by the student (max 6)
 
-*Each bulleted instruction is a complete sentence that describes a specific task.*
+Below are the steps to be executed by learners
 
-- Step 1
-- Step 2
-- Step 3
-- ...
+- Drag and drop start date to rows shelf and measures names to columns shelf
+- Drill down the end date and add mesures names to filter section, filtering out budget and expense (the two measures to be used)
+- Drag and drop measure values to text under marks section and Write down the two calculated fields, one for covariance and the other for windows correlation as shown   in the screencast/video.
+- Add these two calculated fields to the view by adjusting measure names in the filter section and observe the difference between them.
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+ Which of the following is true about WINDOWS function?
+•	WINDOWS function does not require to add a start date and end date
+•	WINDOWS funnction require adding a start and end date
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+![Final_Visualization_Covariance](https://user-images.githubusercontent.com/122206001/211244313-f22955e8-2d0d-44dd-9f7e-6cbe691ab844.png)
+
 
