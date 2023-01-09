@@ -44,8 +44,8 @@ Which of the following is true about WINDOWS function?
 
 #### End goal:
 
+![Final_Vizualization_Correlation](https://user-images.githubusercontent.com/122206001/211260564-1376a031-100e-4758-a911-ca15b0ca26ae.png)
 
-![Final_Vizualization_Correlation](https://user-images.githubusercontent.com/122206001/211250618-3ae6b095-914f-4c69-b9f2-f672d5497972.png)
 
 
 
