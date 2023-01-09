@@ -73,10 +73,10 @@ Windows functions are helpful, efficient, built-in Tableau features that are uti
 
 Below are the steps to be executed by learners
 
-- Drag and drop start date to rows shelf and measures names to columns shelf
-- Drill down the end date and add mesures names to filter section, filtering out budget and expense (the two measures to be used)
-- Drag and drop measure values to text under marks section and Write down the two calculated fields, one for covariance and the other for windows correlation as shown   in the screencast/video.
-- Add these two calculated fields to the view by adjusting measure names in the filter section and observe the difference between them.
+- Select two measures, namely budget and expense and Write down the two calculated fields, one for covariance and the other for windows correlation as shown   in the     screencast/video (you can choose different start and end time intervals for your visualization).
+- Drag and drop location to detail and priority to color under marks section.
+- Drag and drop trend lines and average lines from analytics pane (you can choose trend line to be linesr, logarithmic, etc as per your choice).
+- You can now observe the performnace according to location and priority of projects.
 
 #### Exercise question:
  Which of the following is true about WINDOWS function?
